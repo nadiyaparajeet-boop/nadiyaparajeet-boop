@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Jeet Nadiapara 👋
 
-<!--
-**nadiyaparajeet-boop/nadiyaparajeet-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science with Artificial Intelligence @ University of Greenwich (2024–2027) | Predicted First Class Honours
 
-Here are some ideas to get you started:
+🤖 Passionate about building AI-powered products that solve real-world problems
+💡 Currently building an AI-powered Student Journal App for my Final Year Project
+🌍 Based in London | Originally from Gujarat, India
+🗣️ Fluent in English, Hindi & Gujarati
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Show Image Show Image Show Image Show Image
+
+🚀 Projects
+Project	Description	Tech
+🤖 University Help Desk Chatbot	Rule-based AI chatbot for student queries using regex pattern matching	Python
+📊 Statistical Hypothesis Testing	Hypothesis testing, t-tests, Monte Carlo simulation, data visualisation	R
+📓 AI Student Journal App (In Development)	AI-powered journaling app — captures lecture ideas, summarises notes with LLMs	Python, LLMs
+📫 Connect with me
+
+LinkedIn Email
+
+"Building AI products that make everyday life smarter."
