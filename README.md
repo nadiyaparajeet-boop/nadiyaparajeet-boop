@@ -12,7 +12,7 @@ Hi there, I'm Jeet Nadiapara 👋
 
 🗣️ Fluent in English, Hindi & Gujarati
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 🐍 Languages: Python · R · SQL · Java · HTML/CSS
 
@@ -22,7 +22,7 @@ Hi there, I'm Jeet Nadiapara 👋
 
 🛠️ Tools: FastAPI · BeautifulSoup · MySQL · Git · GitHub · VS Code · Jupyter Lab · RStudio
 
-🚀 Projects
+🚀 Projects:
 
 🤖 University Help Desk Chatbot Rule-based AI chatbot for student queries using regex pattern matching | Python
 
@@ -30,7 +30,7 @@ Hi there, I'm Jeet Nadiapara 👋
 
 📓 AI Student Journal App (In Development) AI-powered journaling app — captures lecture ideas, summarises notes with LLMs | Python
 
-📫 Connect with me
+📫 Connect with me:
 
 💼 LinkedIn: jeet-nadiapara-a0142b324
 
