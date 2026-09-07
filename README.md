@@ -14,7 +14,7 @@ Hi there, I'm Jeet Nadiapara 👋
 
 🛠️ Tech Stack:
 
-🐍 Languages: Python · R · SQL · Java · HTML/CSS
+🐍 Languages: Python · R · SQL 
 
 🤖 AI / ML: Scikit-Learn · NumPy · pandas · Matplotlib · Seaborn · NLP · Machine Learning · Deep Learning
 
