@@ -11,13 +11,12 @@ Hi there, I'm Jeet Nadiapara 👋
 
 Python   R   SQL   FastAPI   pandas   Matplotlib   BeautifulSoup   MySQL   Git
 
-🚀 Projects
-Project	Description	Tech
-🤖 University Help Desk Chatbot	Rule-based AI chatbot for student queries using regex pattern matching	Python
-📊 Statistical Hypothesis Testing	Hypothesis testing, t-tests, Monte Carlo simulation, data visualisation	R
-📓 AI Student Journal App (In Development)	AI-powered journaling app — captures lecture ideas, summarises notes with LLMs	Python, LLMs
-📫 Connect with me
-💼 LinkedIn
-📧 jeetnadiaparauk@gmail.com
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 University Help Desk Chatbot | Rule-based AI chatbot using regex pattern matching | Python |
+| 📊 Statistical Hypothesis Testing | t-tests, Monte Carlo simulation, data visualisation | R |
+| 📓 AI Student Journal App *(In Development)* | Captures lecture ideas, summarises with LLMs | Python |
 
 "Building AI products that make everyday life smarter."
